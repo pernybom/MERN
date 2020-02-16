@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mernDev:mernDev@handsonbook-tei68.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://mernDev:mernDev@handsonbook-tei68.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "myHellaSecretSuperSecret"
 }
