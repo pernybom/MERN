@@ -11,7 +11,7 @@ connectDB();
 app.use(express.json({ extended: false }));
 
 app.get('/', (req, res) => {
-  res.send('api running');
+  res.send('platform running');
 });
 
 //define routes
