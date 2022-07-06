@@ -11,7 +11,7 @@ connectDB();
 app.use(express.json({ extended: false }));
 
 app.get('/', (req, res) => {
-  res.send('server running');
+  res.send('trouble running');
 });
 
 //define routes
